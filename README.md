@@ -12,7 +12,9 @@
 
 It brings users - both in-game and in Studio - a wonderfully simple set of powerful tools that make building easier and faster.
 
-The goal of Fork3X is to **offer new features, better performance, and let developers stand out with a customisability that lets them make THEIR tools.** It's here to help your game, but also to make it.
+Fork3X is distinct from F3X for its extra features, maximum customisability (you can add your own tools!), and constant improvements.
+
+This allows you to make the tools your own. In layman's terms, it's here to help your game, but also to make it.
 
 Do note Fork3X doesn't attempt to surpass the built-in Studio Tools, although there may be useful features Studio doesn't have!
 
@@ -76,11 +78,13 @@ Fork3X introduces new, simple tools that help the player building without headac
 >
 > A tool that allows users to write text on their part. Rich text is also supported, offering a great palette of possibilities to players to customise their text.
 >
+> In the future, a markdown-like editor will replace the current system, so you can easily customise your text!
+>
 > **Transformation Tool**
 >
 > This tool allows users to use the CSG (aka unions) API to create complex shapes off basic parts. It also comes with complete saving and in-game separation, two features the normal CSG API doesn't offer.
 > 
-> v3.2.2 (still being worked on) also allows people to change their parts' shape and type. Developers can add their own sub-types, allowing players to configure their parts to go even further.
+> It also lets you change your parts' shape and type, which makes building more forgiving when placing the wrong part type.
 > 
 > **Attachment Tool**
 >
@@ -125,10 +129,14 @@ Roblox's built-in UI styling is supported by Fork3X, making customisability easi
 > **Saving/Loading**
 >
 > Allowing your users to save hours of work is essential, and this is what Fork3X wants to make possible. v3.2.1 introduced a new Save/Load interface that offers previews, compression, and a readable encoding for creators to contribute to that objective.
+>
+> **And so much more!**
+>
+> Feel free to try out Fork3X, and let yourself get surprised by the new features!
 
 ### Mobile compatibility
 
-Although not a top priority, Fork3X narrows the gap between the keyboard-mouse and touch device experiences. Multiple utilities and keybinds can now be triggered via buttons, making them accessible to the majority of your playerbase.
+Fork3X narrows the gap between the keyboard-mouse and touch device experiences. Multiple utilities and keybinds can now be triggered via buttons, making them accessible to the majority of your playerbase, and boosting engagement and retention!
 
 ### F3X servers replacement
 
@@ -142,7 +150,7 @@ Fork3X uses a lot of clever methods to prevent lag spikes with demanding utiliti
 
 You can always explore the wiki [here](https://github.com/VikkoMakesStuff/Fork3X/wiki) (still a work-in-progress) and ask for help [here](https://github.com/VikkoMakesStuff/Fork3X/discussions/categories/q-a) in order to make Fork3X work how you want it to work.
 
-### A detailed list of the new features can be found here.
+### A detailed list of the new features can be found later.
 
 ## Q&A
 
@@ -169,6 +177,9 @@ You can find a list of them right here (it is slightly outdated):
 
 <details>
 <summary>Tools</summary>
+
+**Move Tool**:
+- Scroll stepping: you can now change the increment directly from your mouse wheel.
 
 **Resize Tool**:
 • Scaling with the resize tool: keep proportions while resizing
