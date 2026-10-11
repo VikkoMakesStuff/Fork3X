@@ -1,5 +1,4 @@
 local SyncAPI = script.Parent;
-local Tool = SyncAPI.Parent;
 local ServerEndpoint = SyncAPI:WaitForChild 'ServerEndpoint';
 
 local lplr=game:GetService("Players").LocalPlayer
