@@ -1,3 +1,3 @@
-[submodule "Fork3X/Vendor/Roact.rbxmx"]
-	path = Fork3X/Vendor/Roact.rbxmx
+[submodule "./Fork3X/StarterPack/Building Tools/Vendor/Roact"]
+	path = ./Fork3X/StarterPack/Building Tools/Vendor/Roact
 	url = https://github.com/Roblox/roact
