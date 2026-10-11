@@ -1,7 +1,6 @@
 local SyncAPI = script.Parent;
 local Tool = SyncAPI.Parent;
 local ServerEndpoint = SyncAPI:WaitForChild 'ServerEndpoint';
-local RunService = game:GetService 'RunService'
 
 local lplr=game:GetService("Players").LocalPlayer
 local isPlugin=plugin~=nil
