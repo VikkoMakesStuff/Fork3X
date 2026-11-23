@@ -415,7 +415,9 @@ Not only I am not interested in earning any money with this project, I also want
   
 As I am heavily against age gating the access to culture, I don't want to complete an age check nor motivate people to give out their sensitive information simply to report bugs and give feedback.
 
-GitHub is the main place for the Fork3X community as anyone can see what bugs got reported and such, but I might also let people DM me on Discord (13+, please respect this rule as it's here for your safety) to not force people to have a GitHub account to contribute.
+GitHub is the main place for the Fork3X community as anyone can see what bugs got reported and such.
+
+Though, if you're +13, and don't want to make a GitHub account, you can read [this announcement](https://github.com/VikkoMakesStuff/Fork3X/discussions/120) carefully to join our Discord server.
 
 ### Why is Fork3X updating so slowly?
 
